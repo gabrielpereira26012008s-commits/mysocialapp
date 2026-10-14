@@ -1,0 +1,6 @@
+Aplicativo de acessibilidade em mapas.
+
+*Ideia ainda não finalizada*
+
+*Conceito simples*
+Uma rede social que visa criar uma comunidade para pessoas com deficiÊncia, deve integrar mapas, ranking, e social com acessibilidade. 
